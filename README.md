@@ -25,3 +25,5 @@ Ex:
 /add someemail@gmail.com:somepassword youtube
 
 /gen youtube
+
+For bulk login restock just open the txt document that was created and paste the credentials there.
