@@ -1,6 +1,6 @@
 # Login generator used for my old LoL marketplace
 
-## Install npm, create a new discord application and set all values in config.json
+## Install [npm 7.24.1](https://www.npmjs.com/package/npm/v/7.24.1), create a new discord application and set all values in config.json
 
 ### Admin commands:
 
